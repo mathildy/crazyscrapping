@@ -5,3 +5,5 @@ describe "the crypto_scrapper method" do
       expect(crypto_scrapper).not_to be_nil
     end
   end
+
+ 
